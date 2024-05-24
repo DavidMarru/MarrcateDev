@@ -1,0 +1,38 @@
+:root {
+    --background-colour1:hsl(205, 40%, 43%);
+    --background-colour2:rgb(23, 98, 152);
+    
+    --background-colour3:white;
+    --background-colour4:hsl(0, 0%, 96%);
+
+    --circle1: rgb(0, 132, 255);
+    --circle2: #ff7700;
+
+    --p6 : #1d1d1d;
+    
+
+    --H2-colour1:white;
+    --H2-font-size1:2vw;
+    --H2-font-sizeMD:5vw;
+    --span-font:2vw;
+    --span-fontMD:4.5vw;
+    --span-SFontMD:4vw;
+
+    --project-tital:1.5vw;
+    --project-tital-MD:3vw;
+    --project-sub-MD:4vw;
+    --about-project:1.15vw;
+    --about-project-MD:3vw;
+    --project-demo:1vw;
+    --project-demo-MD:2.5vw;
+
+    --circle-size: 30vw;
+
+    --font-family1:'Saira Stencil One', sans-serif;
+    --font-family2: 'Montserrat', sans-serif;
+
+
+    --shadow-colour1:hsl(0, 0%, 0%);
+    --shadow-colour2:hsla(0, 0%, 0%, 0.2);
+
+}
